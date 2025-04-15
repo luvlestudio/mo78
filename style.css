@@ -232,7 +232,7 @@ svg {
 }
 
 .countdownTimeInfo {
-  color: #76A0CC;
+  color: #1D6C33;
   font-weight: 600;
 }
 
@@ -424,7 +424,7 @@ main {
 }
 
 #MapIconDiv {
-  color: #ffffff;
+  color: #000000;
   font-size: 13px;
   text-align: center;
   background-color: white;
@@ -436,7 +436,7 @@ main {
 }
 
 #kakaoMapButton {
-  background-color: #A7C4E3;
+  background-color: #D3E4D8;
   padding: 10px;
   text-align: center;
   width: auto;
